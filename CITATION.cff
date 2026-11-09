@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Wenn du llmanno verwendest, zitiere bitte die Version, mit der kodiert wurde. Der Methoden-Report nennt sie. / If you use llmanno, please cite the version used for coding; the methods report states it."
+title: "llmanno: Deductive LLM annotation with a codebook, model panel and validation"
+type: software
+version: 0.1.0
+license: AGPL-3.0-or-later
+authors:
+  - family-names: Filler
+    given-names: Simon
+    orcid: "https://orcid.org/0009-0008-8736-8831"
+keywords:
+  - qualitative content analysis
+  - deductive coding
+  - large language models
+  - intercoder reliability
+  - REFI-QDA
+# Vor der Veröffentlichung ergänzen: repository-code, date-released und, falls angelegt, eine eigene Software-DOI

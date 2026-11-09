@@ -1,0 +1,13 @@
+llmanno steht unter der GNU Affero General Public License, Version 3 oder (nach Wahl) jeder
+späteren Version (Datei LICENSE).
+
+Die Windows-Fassung bündelt Bibliotheken anderer Projekte, jeweils unter deren Lizenz:
+
+- Qt 6 und PySide6/Shiboken6: GNU Lesser General Public License, Version 3 (LGPL-3.0.txt), die
+  die GNU General Public License, Version 3 ergänzt (GPL-3.0.txt). Qt liegt als eigene
+  Bibliotheksdateien im Programmordner und lässt sich gegen eine andere Fassung austauschen.
+  Quelltext: https://code.qt.io
+- pyreadr: GNU Affero General Public License, Version 3.
+- Alle weiteren Pakete (etwa numpy, scipy, pandas, openpyxl, python-docx, httpx, pydantic,
+  keyring, rapidfuzz, pyreadstat) unter ihren eigenen Lizenzen; deren Texte liegen in den
+  Ordnern *.dist-info unter _internal im Programmordner.
