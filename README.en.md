@@ -50,7 +50,7 @@ uv run llmanno-rerun replication.zip --out rerun
 
 This repository starts from a cleaned state without the development history. The versions used in the
 studies (commits `9182f86` and `4b7df4f` of the development repository) are archived as source in the
-replication packages: https://doi.org/10.5281/zenodo.23911470
+replication packages: https://doi.org/10.5281/zenodo.24350129
 
 ## License
 

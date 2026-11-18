@@ -93,7 +93,7 @@ Englisch liegt bei (`llmanno_en.ts` und `.qm`). Die Sprache wählt das Menü „
 
 Dieses Repository beginnt mit einem bereinigten Stand ohne die Entwicklungshistorie. Die in den Studien
 verwendeten Stände (Commits `9182f86` und `4b7df4f` des Entwicklungs-Repos) liegen als Quellarchive in den
-Replikationspaketen: https://doi.org/10.5281/zenodo.23911470
+Replikationspaketen: https://doi.org/10.5281/zenodo.24350129
 
 ## Lizenz
 
