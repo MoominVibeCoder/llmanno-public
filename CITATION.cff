@@ -14,4 +14,5 @@ keywords:
   - large language models
   - intercoder reliability
   - REFI-QDA
-# Vor der Veröffentlichung ergänzen: repository-code, date-released und, falls angelegt, eine eigene Software-DOI
+repository-code: "https://github.com/MoominVibeCoder/llmanno-public"
+date-released: "2026-11-18"
